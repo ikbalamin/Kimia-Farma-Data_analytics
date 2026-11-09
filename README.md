@@ -22,7 +22,10 @@ Proyek ini menggunakan empat dataset utama:
 [Kimia Farma 2020 - 2023](https://app.rakamin.com/virtual-internship-experience/kimiafarma-big-data-analytics-virtual-internship-program)
 
 ## Hasil Dashboard Analytics 
-Adapun berikut hasil dashboard analytics mengenai performa penjualan PT Kimia Farma periode 2020-2023 yakni sebagai berikut. 
+Adapun berikut hasil dashboard analytics mengenai performa penjualan PT Kimia Farma periode 2020-2023 yakni sebagai berikut.  
+
+![Dashboard Kimia Farma](kf.png)  
+
 [DASHBOARD_KIMIA FARMA PERFORMANCE ANALYTICS](https://datastudio.google.com/reporting/f7010074-c2db-492a-a8c7-f0b7d1b3d7d5) 
 
 Author: Ikbal Amin  
