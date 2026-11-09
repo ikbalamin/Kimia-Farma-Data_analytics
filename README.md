@@ -1,9 +1,9 @@
 # Program Project Based Internship - Kimia Farma Big Data Analytics
-Proyek ini merupakan analisis data bisnis Kimia Farma selama periode 2020–2023 yang bertujuan untuk mengevaluasi kinerja perusahaan berdasarkan data transaksi, produk, inventori, dan cabang.
+Project ini merupakan analisis data bisnis Kimia Farma selama periode 2020–2023 yang bertujuan untuk mengevaluasi kinerja perusahaan berdasarkan data transaksi, produk, inventori, dan cabang.
 
 Sebagai Data Analyst, saya melakukan proses pengolahan, penggabungan, dan analisis data menggunakan Google BigQuery serta menyajikan hasil analisis dalam bentuk dashboard interaktif menggunakan Google Looker Studio. Hasil analisis diharapkan dapat memberikan informasi yang bermanfaat sebagai dasar evaluasi dan pengambilan keputusan bisnis.
 
-## Project Objectives
+## Tujuan Project
 
 1. Menganalisis perkembangan penjualan dan keuntungan Kimia Farma.
 2. Mengidentifikasi produk dengan kontribusi penjualan tertinggi.
